@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1533048765 source:c:\users\mahdi\desktop\need_for_speed_1\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	"Retro-fonts.h"
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+	"save_data.h"
+	"aligner.h"
+
+1533037200 c:\users\mahdi\desktop\need_for_speed_1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1533048438 c:\users\mahdi\desktop\need_for_speed_1\road.h
+
+1533097389 c:\users\mahdi\desktop\need_for_speed_1\car.h
+
+1533096910 c:\users\mahdi\desktop\need_for_speed_1\menu.h
+
+1533040440 c:\users\mahdi\desktop\need_for_speed_1\prototypes.h
+
+1532454988 c:\users\mahdi\desktop\need_for_speed_1\sounds.h
+
+1531969867 c:\users\mahdi\desktop\need_for_speed_1\updating_data.h
+
+1533097054 c:\users\mahdi\desktop\need_for_speed_1\playing.h
+
+1532797463 c:\users\mahdi\desktop\need_for_speed_1\settings.h
+
+1533040691 c:\users\mahdi\desktop\need_for_speed_1\help.h
+
+1532503336 c:\users\mahdi\desktop\need_for_speed_1\about.h
+
+1533049075 c:\users\mahdi\desktop\need_for_speed_1\highscore.h
+
+1533048295 c:\users\mahdi\desktop\need_for_speed_1\load_game.h
+
+1531722310 source:c:\users\mahdi\desktop\need_for_speed_1 - copy\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"updating_data.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+
+1531134850 c:\users\mahdi\desktop\need_for_speed_1 - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1531724191 c:\users\mahdi\desktop\need_for_speed_1 - copy\prototypes.h
+
+1531725583 c:\users\mahdi\desktop\need_for_speed_1 - copy\road.h
+
+1531722910 c:\users\mahdi\desktop\need_for_speed_1 - copy\car.h
+
+1531720535 c:\users\mahdi\desktop\need_for_speed_1 - copy\menu.h
+
+1531675792 c:\users\mahdi\desktop\need_for_speed_1 - copy\updating_data.h
+
+1531675316 c:\users\mahdi\desktop\need_for_speed_1 - copy\sounds.h
+
+1531727474 c:\users\mahdi\desktop\need_for_speed_1 - copy\playing.h
+
+1531235430 c:\users\mahdi\desktop\need_for_speed_1 - copy\settings.h
+
+1531229234 c:\users\mahdi\desktop\need_for_speed_1 - copy\help.h
+
+1531136691 c:\users\mahdi\desktop\need_for_speed_1 - copy\about.h
+
+1531722516 c:\users\mahdi\desktop\need_for_speed_1 - copy\highscore.h
+
+1531581630 c:\users\mahdi\desktop\need_for_speed_1 - copy\load_game.h
+
+1533049075 c:\users\mahdi\desktop\need_for_speed_1\save_data.h
+
+1532594311 source:c:\users\kowshic\desktop\need_for_speed_1\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+	"save_data.h"
+
+1532182314 c:\users\kowshic\desktop\need_for_speed_1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1532589953 c:\users\kowshic\desktop\need_for_speed_1\prototypes.h
+
+1532595190 c:\users\kowshic\desktop\need_for_speed_1\road.h
+
+1532595500 c:\users\kowshic\desktop\need_for_speed_1\car.h
+
+1532593561 c:\users\kowshic\desktop\need_for_speed_1\menu.h
+
+1532454988 c:\users\kowshic\desktop\need_for_speed_1\sounds.h
+
+1532584176 c:\users\kowshic\desktop\need_for_speed_1\playing.h
+
+1532460516 c:\users\kowshic\desktop\need_for_speed_1\settings.h
+
+1532183810 c:\users\kowshic\desktop\need_for_speed_1\help.h
+
+1532503336 c:\users\kowshic\desktop\need_for_speed_1\about.h
+
+1532592270 c:\users\kowshic\desktop\need_for_speed_1\highscore.h
+
+1532502894 c:\users\kowshic\desktop\need_for_speed_1\load_game.h
+
+1532503154 c:\users\kowshic\desktop\need_for_speed_1\save_data.h
+
+1531953806 source:c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+	"save_data.h"
+
+1531953798 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1531953810 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\prototypes.h
+
+1531953810 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\road.h
+
+1531953790 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\car.h
+
+1531953806 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\menu.h
+
+1531953826 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\sounds.h
+
+1531953810 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\playing.h
+
+1531953820 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\settings.h
+
+1531953798 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\help.h
+
+1531953786 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\about.h
+
+1531953796 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\highscore.h
+
+1531953800 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\load_game.h
+
+1531953810 c:\users\mahdi\downloads\compressed\need_for_speed_1-20180719t115059z-001\need_for_speed_1\save_data.h
+
+1532164660 source:g:\need_for_speed_1\main.cpp
+	"iGraphics.h"
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+	"save_data.h"
+
+1532164472 g:\need_for_speed_1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+
+1531953810 g:\need_for_speed_1\prototypes.h
+
+1532164482 g:\need_for_speed_1\road.h
+
+1532164498 g:\need_for_speed_1\car.h
+
+1532164506 g:\need_for_speed_1\menu.h
+
+1532164698 g:\need_for_speed_1\sounds.h
+
+1532164516 g:\need_for_speed_1\playing.h
+
+1531953820 g:\need_for_speed_1\settings.h
+
+1531953798 g:\need_for_speed_1\help.h
+
+1531953786 g:\need_for_speed_1\about.h
+
+1531953796 g:\need_for_speed_1\highscore.h
+
+1531953800 g:\need_for_speed_1\load_game.h
+
+1531953810 g:\need_for_speed_1\save_data.h
+
+1532594312 source:g:\need_for_speed_1 26 july\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+	"save_data.h"
+
+1532182314 g:\need_for_speed_1 26 july\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1532589954 g:\need_for_speed_1 26 july\prototypes.h
+
+1532595192 g:\need_for_speed_1 26 july\road.h
+
+1532595502 g:\need_for_speed_1 26 july\car.h
+
+1532593562 g:\need_for_speed_1 26 july\menu.h
+
+1532454988 g:\need_for_speed_1 26 july\sounds.h
+
+1532584176 g:\need_for_speed_1 26 july\playing.h
+
+1532460516 g:\need_for_speed_1 26 july\settings.h
+
+1532183810 g:\need_for_speed_1 26 july\help.h
+
+1532503336 g:\need_for_speed_1 26 july\about.h
+
+1532592272 g:\need_for_speed_1 26 july\highscore.h
+
+1532502894 g:\need_for_speed_1 26 july\load_game.h
+
+1532503154 g:\need_for_speed_1 26 july\save_data.h
+
+1532594312 source:j:\need_for_speed_1 26 july\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	"prototypes.h"
+	"road.h"
+	"car.h"
+	"menu.h"
+	"sounds.h"
+	"playing.h"
+	"settings.h"
+	"help.h"
+	"about.h"
+	"highscore.h"
+	"load_game.h"
+	"save_data.h"
+
+1532182314 j:\need_for_speed_1 26 july\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1532589954 j:\need_for_speed_1 26 july\prototypes.h
+
+1532595192 j:\need_for_speed_1 26 july\road.h
+
+1532595502 j:\need_for_speed_1 26 july\car.h
+
+1532593562 j:\need_for_speed_1 26 july\menu.h
+
+1532454988 j:\need_for_speed_1 26 july\sounds.h
+
+1532584176 j:\need_for_speed_1 26 july\playing.h
+
+1532460516 j:\need_for_speed_1 26 july\settings.h
+
+1532183810 j:\need_for_speed_1 26 july\help.h
+
+1532503336 j:\need_for_speed_1 26 july\about.h
+
+1532592272 j:\need_for_speed_1 26 july\highscore.h
+
+1532502894 j:\need_for_speed_1 26 july\load_game.h
+
+1532503154 j:\need_for_speed_1 26 july\save_data.h
+
+1532964632 c:\users\mahdi\desktop\need_for_speed_1\retro-fonts.h
+
+1533049072 c:\users\mahdi\desktop\need_for_speed_1\aligner.h
+
